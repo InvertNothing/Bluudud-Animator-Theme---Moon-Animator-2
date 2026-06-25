@@ -21,8 +21,13 @@ Based Off Of Bluududs CoolGUI From Forsaken
 ## Colors
 
 Main: 246, 246, 246
+
 Second: 49, 167, 255
+
 Third: 24, 149, 255
+
 Highlight: 25, 76, 255
+
 Bg: 3, 2, 56
+
 Text: 245, 245, 245
