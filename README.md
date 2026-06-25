@@ -18,7 +18,7 @@ Based Off Of Bluududs CoolGUI From Forsaken
 
 
 
-##Colors
+## Colors
 
 Main: 246, 246, 246
 Second: 49, 167, 255
